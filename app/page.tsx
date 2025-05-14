@@ -24,6 +24,7 @@ export default function LandingPage() {
           </div>
         </header>
         <main className="flex-1">
+          {/* Hero Section */}
           <section className="max-w-7xl mx-auto w-full py-12 md:py-24 lg:py-32 bg-gradient-to-b from-white to-teal-50 relative overflow-hidden">
             {/* Decorative blur shapes */}
             <div className="absolute top-0 left-0 w-[500px] h-[500px] bg-teal-200/30 rounded-full blur-[80px] -translate-x-1/2 -translate-y-1/2 z-0"></div>
